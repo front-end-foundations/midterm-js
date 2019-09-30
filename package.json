@@ -9,7 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "browser-sync": "^2.26.0"
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
   }
 }
